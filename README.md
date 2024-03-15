@@ -9,7 +9,7 @@ Esta guía te proporcionará los pasos necesarios para configurar y ejecutar exi
 
 ## Instalación
 1. Clona este repositorio en tu máquina local o descarga el código fuente como archivo ZIP.
-git clone <URL del repositorio>
+git clone https://github.com/R0g3r-SH/TECBOTWHATSAPP.git
 Navega hasta el directorio de la aplicación y ejecuta:
 npm install
 Agregar la Api key en el código:
